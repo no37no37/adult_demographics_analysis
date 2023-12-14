@@ -1,12 +1,15 @@
 # adult_demographics_analysis
 
 **Introduction**
+
 The "YouTube Channels Dataset" analysis delves into a comprehensive exploration of a dataset associated with YouTube channels. This dataset, available here, encapsulates essential information about diverse YouTube channels. Key features include rank, grade, channel name, video uploads, subscribers, and video views.
 
 **Dataset Overview**
+
 The dataset encompasses 48,842 rows and 15 columns, providing a substantial amount of information for analysis.
 
 **Dataset Information**
+
 A detailed examination of the dataset structure reveals essential insights. It comprises a variety of columns, including age, workclass, fnlwgt, education, marital status, occupation, relationship, race, gender, capital gain, capital loss, hours per week, native country, and income.
 
 ## Data Cleaning
