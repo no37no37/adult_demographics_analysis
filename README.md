@@ -1,4 +1,4 @@
-# adult_demographics_analysis
+# Adult Demographics Analysis
 
 **Introduction**
 
