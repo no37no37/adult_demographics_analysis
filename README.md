@@ -9,7 +9,7 @@ The dataset encompasses 48,842 rows and 15 columns, providing a substantial amou
 **Dataset Information**
 A detailed examination of the dataset structure reveals essential insights. It comprises a variety of columns, including age, workclass, fnlwgt, education, marital status, occupation, relationship, race, gender, capital gain, capital loss, hours per week, native country, and income.
 
-**Data Cleaning**
+## Data Cleaning
 
 ### Handling Missing Values
 
@@ -21,7 +21,8 @@ Duplicate entries within the dataset were identified and removed to maintain the
 ### Column Adjustment
 Certain columns, such as educational-num, capital-gain, and capital-loss, were deemed unnecessary for the analysis and were consequently dropped.
 
-**Univariate Analysis**
+## Univariate Analysis
+
 ### Age Distribution
 The age distribution within the dataset was explored, revealing insights into the age demographics of the YouTube channels included.
 
@@ -31,8 +32,9 @@ A histogram visualizing the distribution of workclass shed light on the prevalen
 ### Educational Attainment
 An examination of the dataset uncovered the number of individuals with Bachelors or Masters degrees, providing educational insights.
 
-**Bivariate Analysis**
-Encoding Income Values
+## Bivariate Analysis
+
+### Encoding Income Values
 Income values ('<=50K' and '>50K') were encoded into numerical representations (0 and 1) for effective analysis.
 
 ### Workclass vs. Salary
