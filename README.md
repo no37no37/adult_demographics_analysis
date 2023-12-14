@@ -2,7 +2,7 @@
 
 **Introduction**
 
-The "YouTube Channels Dataset" analysis delves into a comprehensive exploration of a dataset associated with YouTube channels. This dataset, available here, encapsulates essential information about diverse YouTube channels. Key features include rank, grade, channel name, video uploads, subscribers, and video views.
+This analysis delves into a comprehensive exploration of a dataset associated with Adult Demographics and income. 
 
 **Dataset Overview**
 
